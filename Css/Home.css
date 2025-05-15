@@ -153,3 +153,17 @@ hr {
     h5 { font-size: 1.1rem; }
     h6 { font-size: 1rem; }
 }
+
+p {
+
+
+color: #0056b3;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 25px;
+text-align: justify;
+
+padding: 10px;;
+
+
+
+}
